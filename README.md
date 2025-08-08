@@ -19,6 +19,7 @@ README!
 2.1)
 go mod init "название папки в которой лежит mainofallV2"
 go mod tidy
+
 2.2) ИЛИ
 go mod init "название папки в которой лежит mainofallV2"
 go get github.com/atotto/clipboard
